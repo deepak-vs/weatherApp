@@ -1,0 +1,52 @@
+
+.location{
+    margin: 10px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    
+}
+.weather-status{
+    color: rgb(4, 3, 13);
+    margin-top: 20px;
+    font-weight: bolder;
+    
+}
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 16vh;
+    margin-bottom: 2vh;
+}
+.box{
+    width: 25%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.degree{
+    font-size: 1.5rem;
+    color: white;
+    width: 10vw;
+    margin-bottom: 15px;
+}
+
+#sun{
+    background: none;
+    font-size: larger;
+    margin-bottom: 10px;
+    width: 65%;
+}
+.circle-power{
+    font-size: 0.6rem;
+    font-weight:bolder;
+}
+.info{
+    font-size: 0.75rem;
+    width: fit-content;
+    float: right;
+    
+}
