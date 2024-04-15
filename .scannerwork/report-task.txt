@@ -1,0 +1,6 @@
+projectKey=WeatherApp
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=WeatherApp
+ceTaskId=126f09d8-878a-48de-8c74-f68084bac580
+ceTaskUrl=http://localhost:9000/api/ce/task?id=126f09d8-878a-48de-8c74-f68084bac580
