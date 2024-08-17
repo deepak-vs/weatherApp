@@ -15,6 +15,7 @@ function App() {
       <WeatherProvider>
         <CityProvider>
             <ToastContainer/>
+            // Git comment
             <Home/>
         </CityProvider>
       </WeatherProvider>
